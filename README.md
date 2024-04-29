@@ -1,5 +1,3 @@
-Here's a sample README file for your Library Management System project to put on GitHub:
-
 ---
 
 # Library Management System
@@ -18,7 +16,7 @@ This is a multi-user web application built using Flask for backend development, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/library-management.git
+   git clone https://github.com/your-username/library-management-System-.git
    cd library-management
    ```
 
@@ -43,9 +41,9 @@ Access the application at `http://localhost:5000` in your web browser.
 
 ## Contributors
 
-- [Your Name](https://github.com/Rojesh-07)
-- [Contributor Name](https://github.com/Nishanth-227)
-- [Contributor Name](https://github.com/ANISHTHISHYAA)
+- [Rojesh S 21BCE1207](https://github.com/Rojesh-07)
+- [Nishanth P 21BCE1668](https://github.com/Nishanth-227)
+- [Anish Thishyaa Raagav S A 21BCE1471](https://github.com/ANISHTHISHYAA)
 
 
 
